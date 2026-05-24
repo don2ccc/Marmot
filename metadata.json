@@ -1,0 +1,6 @@
+{
+  "name": "小趣记短语",
+  "description": "画风可爱的儿童英语短语学习伴侣，拍照分析英语短文，一键提炼所有核心短语，生成有趣、易懂的少儿卡通例句和中文释义，支持本地卡片复习与互动游戏！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
